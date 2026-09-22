@@ -1,0 +1,8 @@
+{
+    "name": "mc-paper",
+    "compatibility_date": "2026-9-11",
+    "assets":{
+        "directory": "./dist"
+    }
+
+}
