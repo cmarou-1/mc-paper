@@ -46,7 +46,7 @@
     "prettier-plugin-astro": "0.14.1",
     "prettier-plugin-tailwindcss": "^0.8.0",
     "typescript": "^6.0.3",
-    "wrangler": "^4.136.2"
+    "wrangler": "^4.136.3"
   },
   "allowScripts": {
     "esbuild": true,
